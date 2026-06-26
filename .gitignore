@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 venv/
 Track 2 - Explorer/
+Track 3 - Ranger/
+Track 4 - Wizard/
+.claude/
